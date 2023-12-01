@@ -4,7 +4,7 @@
 >Construçaõ de Tela de login a partir dos modelos existentes no [bootstrap 5](https://getbootstrap.com/).
 #
 ## Descrição:
-Trabalho avaliativo de criação de formulário, que simula uma tela de login, utilizado em vários Ecommerce.
+Trabalho avaliativo de criação de formulário que simula uma tela de login, utilizado em vários Ecommerces.
 
 ![Demonstração](20231130_221025.gif)
 ## Objetivos:
