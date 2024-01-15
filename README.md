@@ -1,12 +1,10 @@
-<h1 align=center>Login</h1>
-
-![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.1-white) 
->Construçaõ de Tela de login a partir dos modelos existentes no [bootstrap 5](https://getbootstrap.com/).
+# Login ![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.1-white) 
+>Construção de Tela de login a partir dos modelos existentes no [bootstrap 5](https://getbootstrap.com/).
 #
+![Demonstração](20231130_221025.gif)
 ## Descrição:
 Trabalho avaliativo de criação de formulário que simula uma tela de login, utilizado em vários Ecommerces.
 
-![Demonstração](20231130_221025.gif)
 ## Objetivos:
 
 * Utilizar o bootstrap 5;
@@ -16,6 +14,7 @@ Trabalho avaliativo de criação de formulário que simula uma tela de login, ut
 >3. Botão (Acessar).
 * Adicionar o link contido na aba (Pages).
 #
+## Tags HTML5:
 | Elementos | Atributos |
 | --- | --- |
 | ``<*form*>`` - formulário | *input* - Dados requisitados
